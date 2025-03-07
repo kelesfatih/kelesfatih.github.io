@@ -30,6 +30,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+minima:
+  skin: dark
+
 titles_from_headings:
   strip_title: true
   collections: true
